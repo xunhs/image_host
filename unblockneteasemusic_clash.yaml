@@ -25,8 +25,8 @@ dns:
 proxies:
 - name: "UnblockMusic"
   type: http
-  server: 127.0.0.1
-  port: 2635
+  server: 117.50.185.225
+  port: 10088
 
 proxy-groups:
 - name: "Netease Music"
